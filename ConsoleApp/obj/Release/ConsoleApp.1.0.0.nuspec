@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp</authors>
+    <description>Package Description</description>
+    <repository url="https://github.com/dovhoang/nutget-internal" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.runtimeconfig.json" target="lib/net5.0/ConsoleApp.runtimeconfig.json" />
+    <file src="/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.dll" target="lib/net5.0/ConsoleApp.dll" />
+  </files>
+</package>

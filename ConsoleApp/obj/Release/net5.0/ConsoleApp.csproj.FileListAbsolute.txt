@@ -1,0 +1,16 @@
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.deps.json
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.runtimeconfig.json
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.runtimeconfig.dev.json
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.dll
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/bin/Release/net5.0/ConsoleApp.pdb
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.AssemblyInfo.cs
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.dll
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/refint/ConsoleApp.dll
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.pdb
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ConsoleApp.genruntimeconfig.cache
+/Users/doviet-hoang/RiderProjects/ConsoleApp/ConsoleApp/obj/Release/net5.0/ref/ConsoleApp.dll
